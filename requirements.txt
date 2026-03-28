@@ -1,0 +1,9 @@
+# interview_app_v2
+
+컬처핏 기반 인터뷰 가이드 생성기
+
+## 설정
+
+1. `.streamlit/secrets.toml`에 OpenAI API 키 입력
+2. `pip install -r requirements.txt`
+3. `streamlit run app.py`
